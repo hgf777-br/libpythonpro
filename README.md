@@ -5,7 +5,7 @@
 
 Nesse curso é ensinado como contribuir com projetos de código aberto
 
-Link para o curso [Python Pro] (https://plataforma.dev.pro.br/)
+Link para o curso [Python Pro](https://plataforma.dev.pro.br/)
 
 Utilizei a versão 3.9.6 do Python
 
