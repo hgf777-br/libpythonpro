@@ -7,6 +7,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Link para o curso [Python Pro](https://plataforma.dev.pro.br/)
 
+[![Updates](https://pyup.io/repos/github/hgf777-br/libpythonpro/shield.svg)](https://pyup.io/repos/github/hgf777-br/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/hgf777-br/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/hgf777-br/libpythonpro/)
 [![codecov](https://codecov.io/gh/hgf777-br/libpythonpro/branch/master/graph/badge.svg?token=4XTT0RI5SW)](https://codecov.io/gh/hgf777-br/libpythonpro)
 
 Utilizei a versão 3.9.6 do Python
