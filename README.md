@@ -7,6 +7,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Link para o curso [Python Pro](https://plataforma.dev.pro.br/)
 
+[![codecov](https://codecov.io/gh/hgf777-br/libpythonpro/branch/master/graph/badge.svg?token=4XTT0RI5SW)](https://codecov.io/gh/hgf777-br/libpythonpro)
+
 Utilizei a versão 3.9.6 do Python
 
 Para instalar:
