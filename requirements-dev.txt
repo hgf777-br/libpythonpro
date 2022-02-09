@@ -13,4 +13,9 @@ iniconfig==1.1.1
 six==1.16.0
 attrs==21.4.0
 pytest==7.0.0
+
+# Pytest Coverage
+coverage==6.3.1
+pytest-cov==3.0.0
+
 -r requirements.txt
