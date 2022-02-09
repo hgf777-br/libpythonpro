@@ -19,4 +19,3 @@ Para instalar:
 <li>digite para instalar as bibliotecas: pip install -r requirements-dev.txt</li>
 <h3>Para Usuários</h3>
 <li>digite para instalar as bibliotecas: pip install -r requirements.txt</li>
-
