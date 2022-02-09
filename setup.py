@@ -102,7 +102,7 @@ def find_package_data(
 
 
 PACKAGE = "libpythonpro"
-NAME = PACKAGE
+NAME = "libTesteHGF"
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Henrique Faria"
 AUTHOR_EMAIL = "hgf777@gmail.com"
