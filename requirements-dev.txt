@@ -12,7 +12,7 @@ atomicwrites==1.4.0
 iniconfig==1.1.1
 six==1.16.0
 attrs==21.4.0
-pytest==7.0.0
+pytest==7.0.1
 
 # Pytest Coverage
 coverage==6.3.1
