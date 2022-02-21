@@ -3,6 +3,7 @@ from libpythonpro.span.enviador_de_email import Enviador
 from libpythonpro.span.main import EnviadorDeSpam
 from libpythonpro.span.modelos import Usuario
 
+
 class EnviadorMock(Enviador):
 
     def __init__(self):

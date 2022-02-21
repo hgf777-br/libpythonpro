@@ -17,7 +17,7 @@ jobs:
 
     - name: Lint com flake8
       run: |
-        flake8 --max-line-length 119
+        flake8 --max-line-length 127
 
     - name: Testes com PyTest e CodeCov
       run: |

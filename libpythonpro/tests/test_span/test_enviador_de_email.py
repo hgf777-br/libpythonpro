@@ -2,12 +2,14 @@ from libpythonpro.span.enviador_de_email import Enviador
 from libpythonpro.span.enviador_de_email import EmailInvalido
 import pytest
 
+
 def test_criar_enviador_de_email():
     enviador = Enviador()
     assert enviador is not None
 
-@pytest.mark.parametrize("destinatario", 
-                        ["hgf777@gmail.com", 
+
+@pytest.mark.parametrize("destinatario",
+                        ["hgf777@gmail.com",
                         "katia@inovegrafica.com.br"])
 def test_remetente(destinatario):
     enviador = Enviador()
@@ -19,8 +21,9 @@ def test_remetente(destinatario):
     )
     assert destinatario in resultado
 
-@pytest.mark.parametrize("destinatario", 
-                        ["hgf777Agmail.com", 
+
+@pytest.mark.parametrize("destinatario",
+                        ["hgf777Agmail.com",
                         "katia"])
 def test_remetente_invalido(destinatario):
     enviador = Enviador()
@@ -31,4 +34,3 @@ def test_remetente_invalido(destinatario):
             'Curso de Python',
             'teste de texto do documento'
         )
-    
