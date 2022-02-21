@@ -7,7 +7,7 @@ from libpythonpro.span.modelos import Usuario
     'usuarios',
     [
         [
-            Usuario("Henique", email="hgf777@gmail.com"),
+            Usuario("Henrique", email="hgf777@gmail.com"),
             Usuario("Katia", email="katia@gmail.com"),
             Usuario("Bruna", email="bruna@gmail.com")
         ],
