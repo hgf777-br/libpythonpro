@@ -17,6 +17,3 @@ def buscar_avatar(usuario: str) -> str:
 
     return resp.json()["avatar_url"]
 
-
-if __name__ == "__main__":
-    print(buscar_avatar("hgf777-br"))
