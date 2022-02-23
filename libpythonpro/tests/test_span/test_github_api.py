@@ -2,6 +2,7 @@ from unittest.mock import Mock
 from libpythonpro import github_api
 import pytest
 
+
 @pytest.fixture
 def avatar_url(mocker):
     resp_mock = Mock()
@@ -21,5 +22,3 @@ def test_buscar_avatar(avatar_url):
 def test_buscar_avatar_integracao():
     url = github_api.buscar_avatar("hgf777-br")
     assert "https://avatars.githubusercontent.com/u/66914517?v=4" == url
-
-
