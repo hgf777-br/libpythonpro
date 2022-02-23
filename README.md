@@ -12,15 +12,18 @@ Link para o curso [Python Pro](https://plataforma.dev.pro.br/)
 [![Python 3](https://pyup.io/repos/github/hgf777-br/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/hgf777-br/libpythonpro/)
 [![codecov](https://codecov.io/gh/hgf777-br/libpythonpro/branch/master/graph/badge.svg?token=4XTT0RI5SW)](https://codecov.io/gh/hgf777-br/libpythonpro)
 
-Utilizei a versão 3.9.6 do Python
+Utilizei a versão 3.9.8 do Python
 
 Para instalar:
 
+<li>você deve possuir o Python 3 e o Pip instalados na sua máquina</li>
+<li>clone este projeto para um diretorio local da sua amaquina</li>
 <li>abra o console no windows</li>
 <li>navegue até o diretório com o conteúdo clonado</li>
-<li>digite para criar o ambiente virtual: py -3 -m venv .venv</li>
-<li>digite para ativar o ambiente virtual: .venv/scripts/activate.bat</li>
+<li>execute o comando "pip install pipenv" para instalar o pipenv</li>
+<BR>
+<h3>Para usuários</h3>
+<li>execute o comando "pipenv install"</li>
+<BR>
 <h3>Para Desenvolvedores</h3>
-<li>digite para instalar as bibliotecas: pip install -r requirements-dev.txt</li>
-<h3>Para Usuários</h3>
-<li>digite para instalar as bibliotecas: pip install -r requirements.txt</li>
+<li>execute o comando "pipenv install" --dev"</li>
