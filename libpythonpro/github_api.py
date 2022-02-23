@@ -16,4 +16,3 @@ def buscar_avatar(usuario: str) -> str:
     resp = requests.get(url)
 
     return resp.json()["avatar_url"]
-
